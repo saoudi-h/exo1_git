@@ -1,4 +1,6 @@
 hello
+
+stashed modif
 <p>title after stash</p>
 
 stashed modif
